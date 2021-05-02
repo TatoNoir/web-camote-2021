@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,iBAAiB;EACb,gBAAgB,EAAE,OAAO;;AAG7B,iBAAiB;EACb,gBAAgB,EAAE,OAAO",
+"sources": ["../../sass/layouts/sections.scss"],
+"names": [],
+"file": "sections.css"
+}
